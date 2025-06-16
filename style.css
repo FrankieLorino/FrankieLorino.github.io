@@ -1,0 +1,9 @@
+#table-of-contents {
+  background: #f9f9f9;
+  border-left: 4px solid #ccc;
+  padding: 1em;
+  margin-top: 2em;
+}
+#table-of-contents h2 {
+  margin-top: 0;
+}
